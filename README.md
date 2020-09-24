@@ -1,2 +1,2 @@
 # Natural Computing
-Algorithms for data exploration inspired in nature.
+Algorithms for data exploration inspired by nature.
